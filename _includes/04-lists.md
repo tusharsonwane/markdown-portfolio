@@ -1,4 +1,4 @@
-### Some topics i am interested to explore are 
-  *Blockchain
-  *AI
-  *ML
+* Some topics i am interested to explore are
+ *Blockchain
+ *AI
+ *ML
