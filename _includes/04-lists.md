@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Some topics i am interested to explore are 
+  *Blockchain
+  *AI
+  *ML
